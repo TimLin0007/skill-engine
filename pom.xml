@@ -6,6 +6,7 @@
     <modules>
         <module>skill-engine-concurrent</module>
         <module>skill-engine-arithmetic</module>
+        <module>skill-engine-generic</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
