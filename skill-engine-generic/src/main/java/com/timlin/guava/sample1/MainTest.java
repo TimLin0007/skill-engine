@@ -1,5 +1,6 @@
 package com.timlin.guava.sample1;
 
+
 import com.google.common.eventbus.EventBus;
 
 /**
